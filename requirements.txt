@@ -1,0 +1,15 @@
+ray[tune]
+transformers
+datasets
+peft
+bitsandbytes
+accelerate
+rouge-score
+matplotlib
+seaborn
+torch
+numpy
+pandas
+tqdm
+ipywidgets
+ipykernel
